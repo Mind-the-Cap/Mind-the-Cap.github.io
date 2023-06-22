@@ -1,0 +1,13 @@
+obs:
+  - title: Know the risks
+    children:
+      - title: "List of crowd movements in stations since 1934"
+        url: /risks/list/
+  - title: Discover the levers
+    children:
+      - title: "Observatory of managements levers"
+        url: /levers/
+  - title: Assess the saturation
+    children:
+      - title: "Method to evaluate station saturation"
+        url: /saturation/
