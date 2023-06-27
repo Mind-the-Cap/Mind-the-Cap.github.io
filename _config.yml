@@ -10,3 +10,5 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 
 title: "Rail Crowds Observatory"
 description: "Evaluating crowd risks, management levers and congestion levels in a railway context"
+
+include: ["_pages"]
