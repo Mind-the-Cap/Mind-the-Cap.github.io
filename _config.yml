@@ -12,3 +12,12 @@ title: "Rail Crowds Observatory"
 description: "Evaluating crowd risks, management levers and congestion levels in a railway context"
 
 include: ["_pages"]
+
+defaults:
+  # _obs
+  - scope:
+      path: ""
+      type: obs
+    values:
+      sidebar:
+        nav: "obs"
