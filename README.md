@@ -1,3 +1,10 @@
+---
+last_modified_at: 2023-07-10T12:00:00-02:00
+toc: false
+sidebar:
+  nav: "docs"
+---
+
 This observatory aims to propose:
 * an assessment of the crowd risk in railway context
 * a collection of levers that may be used in stations and trains
