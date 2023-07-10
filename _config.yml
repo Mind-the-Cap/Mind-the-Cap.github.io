@@ -21,8 +21,8 @@ defaults:
     values:
       layout: single
       author_profile: false
-    sidebar:
-      nav: "obs"
+      sidebar:
+        nav: "obs"
   # _posts
   - scope:
       path: ""
@@ -34,5 +34,5 @@ defaults:
       comments: false
       share: false
       related: false
-    sidebar:
-      nav: "obs"
+      sidebar:
+        nav: "obs"
