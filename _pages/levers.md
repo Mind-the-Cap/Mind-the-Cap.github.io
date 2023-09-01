@@ -9,7 +9,7 @@ toc: false
 ![image](https://github.com/Mind-the-Cap/Mind-the-Cap.github.io/assets/19514464/626855cf-4385-4fda-8365-2966156cbe0c)
 ![image](https://github.com/Mind-the-Cap/Mind-the-Cap.github.io/assets/19514464/479143bd-21d7-4997-9659-2c92ddd96e46)
 
-**Separating flow and counterflow by a barrier in a corridor**
+**Separating flow and counterflow by a barrier in a corridor**<br>
 🇨🇭 Lausanne station (Switzerland)
 {: .notice}
 
@@ -24,14 +24,14 @@ Using a barrier helps to separate the flow in two and avoids any blockage. Gates
 [Efficiency not measured](#link){: .btn .btn--inverse}
 [Apparently accepted](#link){: .btn .btn--info}
 
-| Physical | 🟣------ | Virtual
-| Influence | ------🟣 | Coercion
-| Activable | ------🟣 | Permanent
+| Physical | 🔵------ | Virtual
+| Influence | ------🔵 | Coercion
+| Activable | ------🔵 | Permanent
 
-[![image-right](https://github.com/Mind-the-Cap/Mind-the-Cap.github.io/assets/19514464/2145eb11-b727-4340-9e3f-41bcb6dc5983){: .align-right}]([url](https://www.openstreetmap.org/way/313989605#map=18/46.51742/6.62996))
+[![image-right](https://github.com/Mind-the-Cap/Mind-the-Cap.github.io/assets/19514464/2145eb11-b727-4340-9e3f-41bcb6dc5983){: .align-right}]([https://www.openstreetmap.org/way/313989605#map=18/46.51742/6.62996])
 
 [Corridor](#link){: .btn .btn--info}
 
-# Sources
+## Sources
 Direct observation, 30/11/2022
 
