@@ -8,6 +8,6 @@ classes: wide
 ---
 
 
-[Tobalaba, Santiago, Chili](/2013-CL-tobalaba/){: .btn .btn--success}
+[Tobalaba, Santiago, Chili](/levers/2013-CL-tobalaba/){: .btn .btn--success}
 
-[Lausanne station, Switzerland](/2022-CH-lausanne/){: .btn .btn--success}
+[Lausanne station, Switzerland](/levers/2022-CH-lausanne/){: .btn .btn--info}
