@@ -4,6 +4,7 @@ title: "Some levers"
 excerpt: "Ongoin work."
 last_modified_at: 2023-07-10T12:00:00-02:00
 toc: false
+classes: wide
 ---
 
 **Separating flow and counterflow by a barrier in a corridor**<br>
@@ -35,7 +36,8 @@ Using a barrier helps to separate the flow in two and avoids any blockage. Gates
 #### Sources
 Direct observation, 30/11/2022
 
-**Dividing a metro platform by an unidirectional gate**<br>
+
+**Dividing a metro platform by an unidirectional gate**<br>
 🇨🇱 Tobalaba metro - Santiago (Chile)
 {: .notice}
 
@@ -57,6 +59,9 @@ This lever is only activated at peak hours, with staff involved.
 | Physical | 🔵------ | Virtual
 | Influence | ----🔵-- | Coercion
 | Activable | 🔵------ | Permanent
+
+[![image-right](https://github.com/Mind-the-Cap/Mind-the-Cap.github.io/assets/19514464/6d5c2368-a0e6-4a84-9ea8-a53694374685){: .align-right}](https://www.openstreetmap.org/way//node/252527597#map=19/-33.41820/-70.60158)
+
 
 [Platform](#link){: .btn .btn--info}
 
