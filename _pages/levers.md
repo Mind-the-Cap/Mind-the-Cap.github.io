@@ -17,8 +17,11 @@ It looks permanently activated, however it is mainly useful when massive flows c
 Using a barrier helps to separate the flow in two and avoids any blockage. Gates at the end of each corridor part ensure unidirectional flows.
 
 [€](#link){: .btn .btn--success}[€€€€](#link){: .btn .btn--inverse} 
+
 [Unknown ROI](#link){: .btn .btn--inverse}
+
 [Efficiency not measured](#link){: .btn .btn--inverse}
+
 [Apparently accepted](#link){: .btn .btn--info}
 
 | Physical | 🔵------ | Virtual
@@ -29,7 +32,7 @@ Using a barrier helps to separate the flow in two and avoids any blockage. Gates
 
 [Corridor](#link){: .btn .btn--info}
 
-## Sources
+#### Sources
 Direct observation, 30/11/2022
 
 **Dividing a metro platform by an unidirectional gate**<br>
@@ -42,9 +45,13 @@ A gate in the middle of the platform nudges the passengers to use the rear carri
 This lever is only activated at peak hours, with staff involved.
 
 [€€](#link){: .btn .btn--success}[€€€](#link){: .btn .btn--inverse} 
+
 [Unknown ROI](#link){: .btn .btn--inverse}
+
 [Station capacity](#link){: .btn .btn--inverse} **+15%**
+
 [Travel time](#link){: .btn .btn--inverse} **-5%**
+
 [Some acceptation difficulties](#link){: .btn .btn--info}
 
 | Physical | 🔵------ | Virtual
@@ -53,5 +60,5 @@ This lever is only activated at peak hours, with staff involved.
 
 [Platform](#link){: .btn .btn--info}
 
-## Sources
+#### Sources
 Muñoz, J. C., Soza-Parra, J., Didier, A., & Silva, C. (2018). Alleviating a subway bottleneck through a platform gate. Transportation Research Part A: Policy and Practice, 116, 446‑455. [https://doi.org/10.1016/j.tra.2018.07.004](doi.org/10.1016/j.tra.2018.07.004)
