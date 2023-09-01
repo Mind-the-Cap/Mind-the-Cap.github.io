@@ -1,7 +1,7 @@
 ---
 permalink: /levers/2022-CH-lausanne/
 title: "Separating flow and counterflow by a barrier in a corridor"
-excerpt: "Unidirection corridors prevent any blockage"
+excerpt: "Unidirectional corridors prevent any blockage"
 last_modified_at: 2023-07-10T12:00:00-02:00
 toc: false
 classes: wide
