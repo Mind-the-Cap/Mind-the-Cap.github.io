@@ -1,5 +1,5 @@
 ---
-permalink: /2020-KR-controlling-passenger-flow-article/
+permalink: /levers/2020-KR-controlling-passenger-flow-article/
 title: "Controlling passenger flow to mitigate the effects of platform overcrowding on train dwell time"
 excerpt: "a cost-effective strategy to reduce train delays by controlling passenger flow at the station entry"
 last_modified_at: 2023-12-11T12:00:00-02:00
